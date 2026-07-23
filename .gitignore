@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+
+.venv/
+venv/
+
+mlartifacts/
+
+*.pyc
+*.pyo
+
+classification_report.txt
+confusion_matrix.png
